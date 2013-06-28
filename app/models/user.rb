@@ -18,4 +18,4 @@ class User < ActiveRecord::Base
     end 
 end
 
-#User.create(name:"Samwise Gamgee",email:"s_gamgee@shire.org",password:"frodoismyhero",password_confirmation:"frodoismyhero")
+#User.create(name:"Samwise Gamgee",email:"sam_gamgee@shire.org",password:"frodoismyhero",password_confirmation:"frodoismyhero")
